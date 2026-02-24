@@ -7,7 +7,7 @@ function Projects() {
       desc: "Personal portfolio built using React, Tailwind CSS, and modern UI design principles for a responsive and interactive experience.",
       image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=600",
       tech: ["React", "Tailwind", "Vite"],
-      code: "https://github.com/Shahulibrahim",
+      code: "https://github.com/Shahulibrahim/portfolio",
     },
     {
       title: "Smart Helmet Detection",

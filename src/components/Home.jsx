@@ -39,7 +39,7 @@ function Home() {
         </a>
 
         <a
-          href="#projects"
+          href="/Projects"
           className="flex items-center gap-2 border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-xl
                      dark:border-cyan-400 dark:text-cyan-400 font-bold hover:bg-blue-50 dark:hover:bg-cyan-400/10 transition"
         >
